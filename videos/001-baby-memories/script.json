@@ -1,0 +1,22 @@
+{
+  "title": "Why You Can't Remember Being a Baby",
+  "description": "You were there for your first steps... so why can't you remember them? The science of infantile amnesia in 60 seconds. #facts #brain #psychology #science",
+  "scenes": [
+    {"headline": "0 MEMORIES", "sub": "of your first birthday", "colors": ["#ff3d7f", "#7b2ff7"],
+     "text": "You were there for your first steps, your first word, your first birthday. And you remember none of it."},
+    {"headline": "AGE 3", "sub": "when most memories begin", "colors": ["#ff8a00", "#ff2e63"],
+     "text": "Scientists call it infantile amnesia. For most adults, the earliest memory comes from around age three."},
+    {"headline": "BUT WAIT", "sub": "babies DO remember", "colors": ["#00c9ff", "#3d5afe"],
+     "text": "But here's the strange part. Babies do remember. Three month olds can remember how to kick a toy mobile, days later."},
+    {"headline": "2025", "sub": "Yale scanned baby brains", "colors": ["#00e676", "#00897b"],
+     "text": "In twenty twenty five, Yale scientists scanned babies' brains, and saw the memory center storing new memories from about one year old."},
+    {"headline": "REWIRED", "sub": "new neurons pave over old paths", "colors": ["#f50057", "#ff9100"],
+     "text": "So why do they vanish? One idea: a baby's brain grows so fast that new neurons rewire the old paths, like paving over a trail."},
+    {"headline": "NO WORDS", "sub": "no label to find them", "colors": ["#651fff", "#00b0ff"],
+     "text": "Another idea: you didn't have words yet, so your memories have no label to search for."},
+    {"headline": "LOCKED", "sub": "not deleted?", "colors": ["#ffd600", "#ff3d00"],
+     "text": "And the twist? In mice, scientists have switched lost baby memories back on. Your first birthday might still be in there. You just lost the key."},
+    {"headline": "FOLLOW", "sub": "@WhatWhyandHow0009", "colors": ["#ff3d7f", "#7b2ff7"],
+     "text": "Follow for more things your brain never told you."}
+  ]
+}

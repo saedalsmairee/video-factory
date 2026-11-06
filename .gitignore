@@ -1,0 +1,6 @@
+voices/*.onnx
+voices/*.onnx.json
+voices/MODEL_CARD
+videos/*/build/
+videos/*/*.mp4
+__pycache__/
