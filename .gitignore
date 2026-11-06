@@ -4,3 +4,7 @@ voices/MODEL_CARD
 videos/*/build/
 videos/*/*.mp4
 __pycache__/
+remotion/node_modules/
+remotion/public/*.wav
+remotion/public/*.mp4
+remotion/props.json
